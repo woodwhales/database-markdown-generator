@@ -14,7 +14,7 @@
 
 ## 界面效果图
 
-![](doc\images\index.png)
+![](https://raw.githubusercontent.com/woodwhales/database-markdown-generator/master/doc/images/index.png)
 
 ## 操作指南
 
