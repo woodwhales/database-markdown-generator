@@ -2,7 +2,7 @@
 
  [![](https://img.shields.io/badge/Author-woodwhales-green.svg)](https://woodwhales.github.io/) ![](https://img.shields.io/badge/License-GPL%203.0-orange.svg)
 
-> 数据库表结构设计 markdown 文档 生成器
+> 数据库表结构设计 markdown 文档生成器
 
 ## 环境技术栈
 
